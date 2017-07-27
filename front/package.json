@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/whbxyr/cross-domain/issues"
   },
-  "homepage": "https://github.com/whbxyr/cross-domain#readme"
+  "homepage": "https://github.com/whbxyr/cross-domain#readme",
+  "devDependencies": {
+    "path": "^0.12.7"
+  }
 }
