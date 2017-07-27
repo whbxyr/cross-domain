@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "提供跨域接口的服务端",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whbxyr/cross-domain.git"
+  },
+  "keywords": [
+    "提供跨域接口"
+  ],
+  "author": "许源锐",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whbxyr/cross-domain/issues"
+  },
+  "homepage": "https://github.com/whbxyr/cross-domain#readme"
+}
